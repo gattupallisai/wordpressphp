@@ -29,7 +29,7 @@ define( 'DB_USER', 'sai' );
 define( 'DB_PASSWORD', 'qwertyuiop' );
 
 /** Database hostname */
-define( 'DB_HOST', 'database-1.cw2bluvllcas.us-east-1.rds.amazonaws.com' );
+define( 'DB_HOST', 'database.cw2bluvllcas.us-east-1.rds.amazonaws.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
